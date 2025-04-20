@@ -19,8 +19,6 @@ You can simulate and test this project online using Wokwi:
 
 👉 [**Open Wokwi Simulation**](https://wokwi.com/projects/428046376770365441)
 
-_(Replace the placeholder above with your actual Wokwi project URL.)_
-
 ## 💡 Use Cases
 
 - Proximity-based alerts  
